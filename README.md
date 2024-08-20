@@ -1,2 +1,6 @@
-# optimum-tutorials
-Extension of optimum (https://github.com/kshard/optimum) with examples and tutorials
+# optimum : tutorials and examples
+
+See https://github.com/kshard/optimum for details.
+
+- [Textual Search and Retrieval](./text-search/)
+
