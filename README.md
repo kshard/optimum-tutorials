@@ -2,5 +2,5 @@
 
 See https://github.com/kshard/optimum for details.
 
-- [Textual Search and Retrieval](./text-search/)
+- [Textual Search and Retrieval](./text-retrieval/)
 
