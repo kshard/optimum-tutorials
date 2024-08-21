@@ -17,6 +17,8 @@ go install github.com/kshard/optimum/cmd/optimum@latest
 2. Define environment variable with values obtained from your provider. 
 
 ```bash
+export AWS_ACCESS_KEY_ID=XXXXXXXXXX
+export AWS_SECRET_ACCESS_KEY=XXXXXXXXXXXXXXXXXX
 export HOST=https://example.com
 export ROLE=arn:aws:iam::000000000000:role/example-access-role
 ```
