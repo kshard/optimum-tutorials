@@ -1,0 +1,12 @@
+{
+  "embeddings": {
+    "model": "amazon.titan-embed-text-v2:0",
+    "dimension": 256
+  },
+  "hnsw": {
+    "m": 8,
+    "m0": 64,
+    "efConstruction": 400,
+    "surface": "cosine"
+  }
+}
